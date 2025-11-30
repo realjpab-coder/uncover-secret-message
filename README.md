@@ -4,3 +4,4 @@ Arrays for the message, data, character to display, x, and y coordinates are cre
 Data is sorted into the data_list array and shortens the original data.
 From the data, it is further sorted into their respective lists.
 Using all the lists, the message is displayed.
+https://youtu.be/u4WhbURT-0s
